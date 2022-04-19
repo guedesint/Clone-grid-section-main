@@ -1,0 +1,16 @@
+.card {
+    padding:1.7rem;
+    align-items: center;
+    justify-items: center;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+.card__daniel-1 {
+    background-image: url(../../images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 80%;
+
+
+}
+

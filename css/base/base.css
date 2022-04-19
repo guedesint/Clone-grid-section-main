@@ -1,0 +1,42 @@
+@import url(../base/reset.css);
+@import url(../base/variaveis.css);
+
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
+}
+
+.container__main {
+    width: 100vw;
+    height: 100vh;
+    padding: 2rem;
+    box-sizing: border-box;
+    background-color: var(--lightgray);
+}
+
+.titulo__destaque {
+    color: var(--branco);
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    padding-bottom: 1.2rem;
+    opacity: 0.9;
+}
+
+.titulo__alternativo {
+    color: var(--cinza-escuro);
+    opacity: 0.6;
+}
+
+.paragrafo {
+    font-weight: 600;
+    color: var(--lightgray);
+    line-height: 1.1rem;
+    font-size:11.4px;
+}
+
+.paragrafo__alternativo {
+    color: var(--cinza-escuro);
+    opacity: 0.5;
+    box-sizing: border-box;
+}

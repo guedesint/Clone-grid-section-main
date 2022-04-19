@@ -1,0 +1,11 @@
+:root {
+    /* Colors */
+    --roxo:hsl(263, 55%, 52%);
+    --cinza-fraco:hsl(217, 19%, 35%);
+    --cinza-forte:hsl(219, 29%, 14%);
+    --branco:hsl(0, 0%, 100%);
+
+    /* Colors Neutras */
+    --lightgray:hsl(0, 0%, 81%);
+    --lightgrayishblue:hsl(210, 46%, 95%);
+}
