@@ -10,6 +10,7 @@
 
 
 .container__conteudo {
+    max-width: 1050px;
     width: 80vw;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
