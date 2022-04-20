@@ -37,7 +37,7 @@ body {
 
 .paragrafo__alternativo {
     color: var(--cinza-escuro);
-    opacity: 0.5;
+    opacity: 0.4;
     box-sizing: border-box;
 }
 
